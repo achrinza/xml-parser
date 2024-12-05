@@ -1,0 +1,12 @@
+# SPDX-FileCopyrightText: Copyright 2024 Social Media Filters Authors <https://github.com/achrinza/social-media-filters>
+# SPDX-License-Identifier: FSFAP
+
+tsconfig.tsbuildinfo
+node_modules
+dist/
+
+# Code editors
+*~
+.*.swp
+\#*#
+.#*
